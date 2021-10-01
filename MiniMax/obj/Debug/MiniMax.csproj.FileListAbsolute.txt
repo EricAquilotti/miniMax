@@ -1,0 +1,7 @@
+C:\Users\eric.aquilotti\source\repos\MiniMax\MiniMax\bin\Debug\MiniMax.exe.config
+C:\Users\eric.aquilotti\source\repos\MiniMax\MiniMax\bin\Debug\MiniMax.exe
+C:\Users\eric.aquilotti\source\repos\MiniMax\MiniMax\bin\Debug\MiniMax.pdb
+C:\Users\eric.aquilotti\source\repos\MiniMax\MiniMax\obj\Debug\MiniMax.csproj.AssemblyReference.cache
+C:\Users\eric.aquilotti\source\repos\MiniMax\MiniMax\obj\Debug\MiniMax.csproj.CoreCompileInputs.cache
+C:\Users\eric.aquilotti\source\repos\MiniMax\MiniMax\obj\Debug\MiniMax.exe
+C:\Users\eric.aquilotti\source\repos\MiniMax\MiniMax\obj\Debug\MiniMax.pdb
